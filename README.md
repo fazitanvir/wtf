@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### [Visit](https://wtf.fazisoft.me)
+### [Visit](https://me.tanvir.wtf)
 
 <!--
 **wtftanveer/wtftanveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
